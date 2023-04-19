@@ -10,16 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lazaruslabs/culturestake-subgraph.git"
+    "url": "git+https://github.com/tripledoublev/culturestake-subgraph.git"
   },
   "contributors": [
     "ana0"
   ],
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/lazaruslabs/culturestake-subgraph/issues"
+    "url": "https://github.com/tripledoublev/culturestake-subgraph/issues"
   },
-  "homepage": "https://github.com/lazaruslabs/culturestake-subgraph#readme",
+  "homepage": "https://github.com/tripledoublev/culturestake-subgraph#readme",
   "devDependencies": {
     "@graphprotocol/graph-cli": "^0.16.2",
     "@graphprotocol/graph-ts": "^0.16.0",
